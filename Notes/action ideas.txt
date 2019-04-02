@@ -1,0 +1,2 @@
+being able to "toss" yourself like a weapon if hand is empty.
+shot gun blasts can be chained together allowing the player to move faster.

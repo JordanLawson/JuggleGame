@@ -1,0 +1,39 @@
++ SHIP DATE: 22 JUL 2018
++ Testing start date: 18 JUL 2018
++===================================+
+
+
+*basic functionality		DUE: 03 JUL 2018
+    / due: xx xxx 2018 /
+    -functional level views
+    -basic levels
+    -bullet mechanics
+    -enemies
+    -define success state
+    -define fail state
+    -credits
+    -main menu
+    -
+    -
+*prefered functionality	DUE: 18 JUL 2018
+    -new gun types
+    -adjustable resolution
+    -enemy A.I. varients
+    -level select
+    -final boss
+    -additional movement abilities
+    -
+    -
+    -
+    -
+*style-extras		DUE: 18 JUL 2018
+    -more weapons
+    -more blocks
+    -backgrounds
+    -
+    -
+*extras			DUE: 18 JUL 2018
+    -controller support
+    -rebindable controls
+    -
+    -

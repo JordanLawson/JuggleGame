@@ -1,0 +1,10 @@
+19 JUN 2018
+
+GENERAL PROJECT INFO
+================================================
+Project Name: Juggle Gun
+Started: 15 JUN 2018
+Engine: Game Maker Studio 1.4 (YoYo Games)
+
+Description:
+Juggle Gun is a 2D platform game where the player uses various weapons to defeat opponnets.  The unique feature of the game is that weapons are only reloaded/reset when thrown away from the player, forcing them to constantly find new weapons or "juggle" the one they have.

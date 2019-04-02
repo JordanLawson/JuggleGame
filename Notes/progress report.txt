@@ -1,0 +1,19 @@
+I wanted to have the game in a playable state by the 22nd including playable menus, enemy ai, menus etc.  However it is becoming abundantly apparent that the game will not be nearly complete as I wanted it to be by that date.
+
+Up until this point I have focused on getting something playable up and running, adding basic functionality before moving on the the next item.  I have not given any thought toward what levels will look like, what a player needs to do to complete a stage, how long the game will be, how instructions are given to a player, sound design from effects to music.
+
+
+Right now I have a controllable character, two working weapons, floors-walls-and slopes, and an enemy with very basic ai.
+
+I'm not entirely sure where to go to from here- what should I try to get done before the deadline?  
+My initial plan is to design a few basic levels which involve killing enemies, destorying targets, reaching a goal post, or surviving a period of time.  In order to do so I will need to create a few more enviromental objects which have a history of needing a lot of troubleshooting.  If by some miracle I have a few extra days I may try to add sound effects and music.
+
+I will also need to create a menu system.
+
+Here is the breakdown:
+menu: 2 days
+target levels: 3 days
+survival levels: 2 days
+goal post levels: 3 days
+improve enemy ai: 3 days
+

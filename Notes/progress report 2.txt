@@ -1,0 +1,9 @@
+19 JUL 2018
+The game has progressed well over the past week and I have been able to implement most aspects of game play I wanted.  Certain areas of the game remain under developed with the main menu being ugly and the complete lack of sound being the two most notable.  There is also a problem with progression in the game as some levels require ideas or the use of items that aren't introduced until later on.  I strongly considered creating a html5 version of the game since the porting look to be very direct from the windows version, however I have encountered at least one glitch which prevents the game from being completable and am yet to resolve it.
+I am still pushing for completion by end of day July 22 so here I will list out the actions I plan on taking over the next few days.
+
+Fix problem with the yoodoo doll in html5 version.
+Further improvements and testing of the html5 version.
+Introduce basic sound effects for movement and weapons.
+Add a music back track.
+Rearrange worlds and levels and introduce a new world for misfit levels.
